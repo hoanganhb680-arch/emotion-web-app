@@ -1,0 +1,8 @@
+
+# Ignore trained models and generated results
+models/
+ket_qua/
+*.pth
+*.pt
+*.h5
+*.onnx
